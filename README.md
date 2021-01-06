@@ -1,5 +1,5 @@
 # 3RGB_otherRoom
-\
+
 01/05/2021\
 
 RGB LED Strips with 12V\
