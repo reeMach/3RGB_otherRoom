@@ -7,4 +7,4 @@ Controlled with Nano V3 Clone CH340 Driver\
 pin 5 - Button\
 pin 4 - Blue\
 pin 3 - Red\
-pin 2 - Green\
+pin 2 - Green
